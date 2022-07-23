@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:title="normal"
+        android:id="@+id/normal"
+        />
+    <item
+        android:title="sort asc"
+        android:id="@+id/asc_sort"/>
+    <item
+        android:title="sort desc"
+        android:id="@+id/desc_sort"/>
+</menu>
